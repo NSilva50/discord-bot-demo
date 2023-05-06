@@ -1,0 +1,25 @@
+# Ignore node_modules
+node_modules/
+
+# Ignore environment variables file
+.env
+
+# Ignore log files
+*.log
+
+# Ignore build and distribution directories
+/dist
+/build
+
+# Ignore any editor-specific files
+*.swp
+*.swo
+*.swn
+*.bak
+*.tmp
+*.sublime*
+.vscode/
+
+# Ignore any OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,25 @@
+{
+  "name": "elena-assistant-package",
+  "version": "1.0.0",
+  "description": "The goal of this project is to develop a personalized AI personal assistant that can assist in a variety of tasks, including but not limited to scheduling, reminders, and personal organization. The AI personal assistant will be built using OpenAI's GPT-3 model and will be tailored to the specific needs and requirements of the user.",
+  "main": "elena.js",
+  "dependencies": {
+    "discord.js": "^14.7.1",
+    "dotenv": "^16.0.3",
+    "node": "^19.6.1",
+    "openai": "^3.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "assistant",
+    "chatbot",
+    "ai"
+  ],
+  "author": "Nathan A. Silva",
+  "license": "ISC"
+}
